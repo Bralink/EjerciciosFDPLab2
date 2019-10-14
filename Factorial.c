@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Recursividad en C
 int factorial(int n){
 	if(n == 1){
 		return 1;
@@ -18,3 +18,4 @@ int main ()
 	printf("El factorial de %d es %d\n", n , res);
 	return 0;
 }
+//Alumno: Brayan Morales Velasco 
